@@ -1,4 +1,3 @@
-```
 mutation movies_music {
 
   goldenage1: insertmovies_by_genre(
@@ -22,6 +21,4 @@ mutation movies_music {
       thumbnail:"https://i.imgur.com/ZTOIYrc.mp4"}) {
     value{title}
   }
-
 }
-```

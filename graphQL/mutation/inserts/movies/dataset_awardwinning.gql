@@ -1,6 +1,4 @@
-```
 mutation movies_awardwinning {
-
   forest1: insertmovies_by_genre(
     value: { 
       genre:"Award-Winning", 
@@ -134,5 +132,3 @@ mutation movies_awardwinning {
   }
   
 }
-
-```

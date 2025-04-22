@@ -1,6 +1,4 @@
-```
 mutation movies_actions {
-  
   creed_1: insertmovies_by_genre(
     value: { 
       genre:"Action", 
@@ -133,4 +131,3 @@ mutation movies_actions {
   }
 
 }
-```

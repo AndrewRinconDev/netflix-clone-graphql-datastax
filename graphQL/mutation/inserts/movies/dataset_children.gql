@@ -1,6 +1,4 @@
-```
 mutation movies_children {
-
   nemo1: insertmovies_by_genre(
     value: { 
       genre:"Children & Family", 
@@ -167,4 +165,3 @@ toystory3: insertmovies_by_genre(
   }
 
 }
-```

@@ -1,4 +1,3 @@
-```
 mutation movies_animes {
   
   gundamn_1: insertmovies_by_genre(
@@ -134,5 +133,3 @@ mutation movies_animes {
   }
    
 }
-
-```

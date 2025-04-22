@@ -1,4 +1,3 @@
-```
 mutation movies_documentaries {
 
   firstp1: insertmovies_by_genre(
@@ -87,8 +86,5 @@ mutation movies_documentaries {
       duration:88,
       thumbnail:"https://i.imgur.com/xZid5oj.mp4"}) {
     value{title}
-  }
-
-  
+  } 
 }
-```

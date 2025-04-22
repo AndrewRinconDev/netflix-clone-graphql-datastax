@@ -1,6 +1,4 @@
-```
 mutation movies_comedies {
-
   bridget1: insertmovies_by_genre(
     value: { 
       genre:"Comedies", 
@@ -132,6 +130,4 @@ mutation movies_comedies {
       thumbnail:"https://i.imgur.com/4nlbiGT.mp4"}) {
     value{title}
   }
-  
 }
-```

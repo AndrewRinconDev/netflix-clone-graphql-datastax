@@ -1,6 +1,4 @@
-```
 mutation movies_french {
-
  amelie1: insertmovies_by_genre(
     value: { 
       genre:"French", 
@@ -10,7 +8,5 @@ mutation movies_french {
       duration:122,
       thumbnail:"https://i.imgur.com/fan0H9k.mp4"}) {
     value{title}
-  }
-  
+  } 
 }
-```

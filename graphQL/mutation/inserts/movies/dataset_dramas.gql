@@ -1,6 +1,4 @@
-```
 mutation movies_dramas {
-
  girl1: insertmovies_by_genre(
     value: { 
       genre:"Dramas", 
@@ -11,6 +9,4 @@ mutation movies_dramas {
       thumbnail:"https://i.imgur.com/yinQyyT.mp4"}) {
     value{title}
   }
-
 }
-```

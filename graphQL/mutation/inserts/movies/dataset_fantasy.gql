@@ -1,6 +1,4 @@
-```
 mutation movies_fantasy {
-
   doctorstrange1: insertmovies_by_genre(
     value: { 
       genre:"Fantasy", 
@@ -55,6 +53,4 @@ mutation movies_fantasy {
       thumbnail:"https://i.imgur.com/62tJ58E.mp4"}) {
     value{title}
   }
-  
 }
-```
